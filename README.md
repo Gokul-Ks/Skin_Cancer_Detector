@@ -1,1 +1,1 @@
-<h2><a>https://skin-cancer-v1.herokuapp.com/</a><h2>
+<h2>https://skin-cancer-v1.herokuapp.com/<h2>
